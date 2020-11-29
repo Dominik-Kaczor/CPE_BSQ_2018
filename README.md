@@ -25,6 +25,6 @@ You program must print the board, with some "." replaced by "x" to represent the
 
 * Une autre puce
 
-`* Une sous-puce`
+** Une sous-puce
 
-`* Une autre sous-puce`
+** Une autre sous-puce
