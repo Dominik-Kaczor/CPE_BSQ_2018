@@ -24,7 +24,5 @@ You program must print the board, with some "." replaced by "x" to represent the
 * Une puce
 
 * Une autre puce
-
 `* Une sous-puce`
-
 `* Une autre sous-puce`
