@@ -20,3 +20,11 @@ other lines,
 • each line is terminated by ’\n’.
 
 You program must print the board, with some "." replaced by "x" to represent the largest square you found.
+
+* Une puce
+
+* Une autre puce
+
+`* Une sous-puce`
+
+`* Une autre sous-puce`
